@@ -1,0 +1,8 @@
+prefix=/home/monster/ROS/ros_hw3/devel
+
+Name: test3
+Description: Description of test3
+Version: 0.0.0
+Cflags: -I/home/monster/ROS/ros_hw3/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp std_msgs std_srvs message_runtime

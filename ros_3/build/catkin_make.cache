@@ -1,0 +1,2 @@
+test1:test2:test3
+-DCATKIN_DEVEL_PREFIX=/home/monster/ROS/ros_hw3/devel -DCMAKE_INSTALL_PREFIX=/home/monster/ROS/ros_hw3/install -G Unix Makefiles
